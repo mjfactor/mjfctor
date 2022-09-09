@@ -5,7 +5,7 @@
 
 - Being able to use a computer opens a path for me to learn new different things. For now, 🌱 I’m currently learning:
    
-   - Information Management and Data Analytics 
+   - Information Management and Data Science
    - Cryptography
    - Different Languages and Compilers
    - Advance Python
