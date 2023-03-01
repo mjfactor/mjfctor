@@ -1,7 +1,8 @@
 **Welcome**
 - 👋 Hi, I’m @mjfctor, a college student 🧑‍🎓 and currently taking a degree in Computer Science.
 
-- 👀 I’m interested in learning the concept and varaints of 📊 data analytics and 💽 cryptography.
+- 👀 I’m interested in learning the concept and varaints of 📊 data analytics and ![image](https://user-images.githubusercontent.com/39983842/222150812-5e530c5a-1ce0-4fd8-9b5d-44a46eefdc4e.png)
+
 
 - Being able to use a computer opens a path for me to learn new different things. For now, 🌱 I’m currently learning:
    
